@@ -1,0 +1,12 @@
+{
+  labels: ["Nov 21", "Dec 21", "Jan 22", "Feb 22", "Mar 22", "Apr 22"],
+  datasets: [
+    {
+      label: "Trial Account Signups",
+      data: [10, 90, 180, 222, 320, 500],
+      fill: true,
+      backgroundColor: "rgba(75,192,192,0.2)",
+      borderColor: "rgba(75,192,192,1)"
+    }
+  ]
+}
